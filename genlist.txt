@@ -1,0 +1,16 @@
+gen snp.1
+gen snp.2
+gen snp.3
+gen snp.4
+gen snp.5
+gen snp.6
+gen snp.7
+gen snp.8
+gen snp.9
+gen snp.10
+gen snp.11
+gen snp.12
+gen snp.13
+gen snp.14
+gen snp.15
+gen snp.16
